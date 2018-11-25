@@ -1,0 +1,25 @@
+.anh{
+	max-width: 15%;
+}
+.anh2{
+	max-width: 80%;
+	height: 100px;
+}
+.marginSp{
+	margin-top: 10px;
+}
+.menuNguoiBan ul{
+	float:left;
+	width:15%;
+}
+.anhChiTiet{
+	width:100%;
+}
+
+.timKiem1{
+	float: left;
+	width: 90%;
+}
+.btn-ql{
+	margin-left:40px;
+}

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jeroen-g/laravel-packager": "^2.0"
+    }
+}

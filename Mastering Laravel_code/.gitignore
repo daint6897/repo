@@ -1,0 +1,5 @@
+/vendor
+.env
+.idea
+
+public/dbmgr2
